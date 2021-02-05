@@ -5,7 +5,7 @@ This plugin adds tailwind utility classes required for [Control UI Kit](https://
 ## Install
 
 ```
-npm install --save-dev @control-ui-kit/tailwindcss-control-ui-kit
+npm install --save-dev tailwindcss-control-ui-kit
 ```
 
 In your `tailwind.config.js` file, load the plugin:
