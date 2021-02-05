@@ -16,7 +16,7 @@ module.exports = {
   theme: {},
   variants: {},
   plugins: [
-    require('@control-ui-kit/tailwindcss-control-ui-kit'),
+    require('tailwindcss-control-ui-kit'),
   ],
 }
 ```
