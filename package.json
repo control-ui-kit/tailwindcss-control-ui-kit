@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-control-ui-kit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tailwind CSS plugin to add the required Control UI Kit utilities",
   "main": "src/index.js",
   "scripts": {
