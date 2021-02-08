@@ -73,6 +73,7 @@ module.exports = plugin.withOptions(()=> {
             '.text-muted': { textColor: 'var(--muted)' },
             '.text-link': { textColor: 'var(--link)' },
             '.text-link-hover': { textColor: 'var(--link-hover)' },
+            '.text-footer': { textColor: 'var(--footer)' },
             '.text-header': { textColor: 'var(--header)' },
             '.text-header-muted': { textColor: 'var(--header-muted)' },
             '.text-header-link': { textColor: 'var(--header-link)' },
