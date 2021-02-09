@@ -36,6 +36,13 @@ module.exports = plugin.withOptions(()=> {
             '.bg-warning': { background: 'var(--warning)' },
             '.bg-info': { background: 'var(--info)' },
             '.bg-debug': { background: 'var(--debug)' },
+            '.bg-brand-lightest': { background: 'var(--brand-lightest)' },
+            '.bg-brand-lighter': { background: 'var(--brand-lighter)' },
+            '.bg-brand-light': { background: 'var(--brand-light)' },
+            '.bg-brand': { background: 'var(--brand-default)' },
+            '.bg-brand-dark': { background: 'var(--brand-dark)' },
+            '.bg-brand-darker': { background: 'var(--brand-darker)' },
+            '.bg-brand-darkest': { background: 'var(--brand-darkest)' },
 
             '.border-transparent': { borderColor: 'transparent' },
             '.border-default': { borderColor: 'var(--border)' },
